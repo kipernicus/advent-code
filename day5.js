@@ -1,7 +1,5 @@
 const fs = require("fs");
 
-const INPUT = {};
-
 function getInput() {
   const filename = process.argv[2];
   const input = fs.readFileSync(`${__dirname}/${filename}`, "utf8");
