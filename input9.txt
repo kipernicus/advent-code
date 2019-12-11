@@ -1,0 +1,48 @@
+SCORING { score: 1845, bonusLoc: 667, i: 1288, currentMarble: 674 }
+{ currentMarble: 669 }
+{ currentMarble: 671 }
+{ currentMarble: 673 }
+{ currentMarble: 675 }
+{ currentMarble: 677 }
+{ currentMarble: 679 }
+{ currentMarble: 681 }
+{ currentMarble: 683 }
+{ currentMarble: 685 }
+{ currentMarble: 687 }
+{ currentMarble: 689 }
+{ currentMarble: 691 }
+{ currentMarble: 693 }
+{ currentMarble: 695 }
+{ currentMarble: 697 }
+{ currentMarble: 699 }
+{ currentMarble: 701 }
+{ currentMarble: 703 }
+{ currentMarble: 705 }
+{ currentMarble: 707 }
+{ currentMarble: 709 }
+{ currentMarble: 711 }
+SCORING { score: 1876, bonusLoc: 704, i: 1311, currentMarble: 711 }
+
+
+
+SCORING { score: 1845, bonusLoc: 667, i: 1288, currentMarble: 674 }
+{ currentMarble: 669, i: 1289, first: 869 }
+{ currentMarble: 671, i: 1290, first: 869 }
+{ currentMarble: 673, i: 1291, first: 869 }
+{ currentMarble: 675, i: 1292, first: 869 }
+{ currentMarble: 677, i: 1293, first: 869 }
+{ currentMarble: 679, i: 1294, first: 869 }
+{ currentMarble: 681, i: 1295, first: 869 }
+{ currentMarble: 683, i: 1296, first: 869 }
+{ currentMarble: 0, i: 1297, first: 1297 }
+{ currentMarble: 2, i: 1298, first: 1297 }
+{ currentMarble: 4, i: 1299, first: 1297 }
+{ currentMarble: 6, i: 1300, first: 1297 }
+{ currentMarble: 8, i: 1301, first: 1297 }
+{ currentMarble: 10, i: 1302, first: 1297 }
+{ currentMarble: 12, i: 1303, first: 1297 }
+{ currentMarble: 14, i: 1304, first: 1297 }
+{ currentMarble: 16, i: 1305, first: 1297 }
+{ currentMarble: 18, i: 1306, first: 1297 }
+{ currentMarble: 20, i: 1307, first: 1297 }
+{ currentMarble: 22, i: 1308, first: 1297 }
